@@ -11,8 +11,6 @@
 		235FBC0B2B852ED70063C613 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 235FBC0A2B852ED70063C613 /* ContentView.swift */; };
 		235FBC0D2B852ED80063C613 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 235FBC0C2B852ED80063C613 /* Assets.xcassets */; };
 		235FBC102B852ED80063C613 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 235FBC0F2B852ED80063C613 /* Preview Assets.xcassets */; };
-		23DE52112B86792300B1AA61 /* TeamSlate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23DE52102B86792300B1AA61 /* TeamSlate.swift */; };
-		23DE52132B8679D000B1AA61 /* TeamElevate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23DE52122B8679D000B1AA61 /* TeamElevate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,8 +19,6 @@
 		235FBC0A2B852ED70063C613 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		235FBC0C2B852ED80063C613 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		235FBC0F2B852ED80063C613 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		23DE52102B86792300B1AA61 /* TeamSlate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamSlate.swift; sourceTree = "<group>"; };
-		23DE52122B8679D000B1AA61 /* TeamElevate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamElevate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +53,6 @@
 			children = (
 				235FBC082B852ED70063C613 /* Github_Xcode_ExerciseApp.swift */,
 				235FBC0A2B852ED70063C613 /* ContentView.swift */,
-				23DE52122B8679D000B1AA61 /* TeamElevate.swift */,
-				23DE52102B86792300B1AA61 /* TeamSlate.swift */,
 				235FBC0C2B852ED80063C613 /* Assets.xcassets */,
 				235FBC0E2B852ED80063C613 /* Preview Content */,
 			);
@@ -144,8 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				235FBC0B2B852ED70063C613 /* ContentView.swift in Sources */,
-				23DE52132B8679D000B1AA61 /* TeamElevate.swift in Sources */,
-				23DE52112B86792300B1AA61 /* TeamSlate.swift in Sources */,
 				235FBC092B852ED70063C613 /* Github_Xcode_ExerciseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
