@@ -53,6 +53,7 @@
 			children = (
 				235FBC082B852ED70063C613 /* Github_Xcode_ExerciseApp.swift */,
 				235FBC0A2B852ED70063C613 /* ContentView.swift */,
+				23E2C6312B8805F4007EBBDF /* TeamElevate.swift */,
 				235FBC0C2B852ED80063C613 /* Assets.xcassets */,
 				235FBC0E2B852ED80063C613 /* Preview Content */,
 			);
