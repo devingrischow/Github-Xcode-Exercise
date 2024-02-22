@@ -11,6 +11,7 @@ struct TeamElevate: View {
     var body: some View {
         Text("Team Elevate!")
     }
+    
 }
 
 #Preview {
