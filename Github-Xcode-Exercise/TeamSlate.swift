@@ -10,6 +10,16 @@ import SwiftUI
 struct TeamSlate: View {
     var body: some View {
         Text("Team Slate! ")
+        
+        VStack {
+            Image("funny1")
+                .resizable()
+                .scaledToFit()
+            
+        }
+        .padding()
+        
+        
     }
 }
 
